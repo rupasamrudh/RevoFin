@@ -1,0 +1,15 @@
+   # secrets
+   .env
+   .env.*
+   *.key
+   google-services.json
+   GoogleService-Info.plist
+
+   # build and dependency folders
+   node_modules/
+   build/
+   .dart_tool/
+
+   # misc
+   .DS_Store
+   *.log
